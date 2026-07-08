@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bujji Bedtime Stories</title>
+    <link>https://vivekreddy99.github.io/bujji-bedtime-podcast</link>
+    <language>en</language>
+    <description>Soft, soothing bedtime stories to help little ones drift off to sleep. Gentle original tales — a sleepy star, a moon that lost its blanket — told in a warm, calming voice with soft music. No loud sounds, no scary bits. Ages 2-8. New story every week.</description>
+    <itunes:summary>Soft, soothing bedtime stories to help little ones drift off to sleep. Gentle original tales — a sleepy star, a moon that lost its blanket — told in a warm, calming voice with soft music. No loud sounds, no scary bits. Ages 2-8. New story every week.</itunes:summary>
+    <itunes:author>Bujji</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Bujji</itunes:name>
+      <itunes:email>earlybrightgloballlc@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://vivekreddy99.github.io/bujji-bedtime-podcast/art/cover.jpg"/>
+    <itunes:category text="Kids &amp; Family"/>
+    <image><url>https://vivekreddy99.github.io/bujji-bedtime-podcast/art/cover.jpg</url><title>Bujji Bedtime Stories</title><link>https://vivekreddy99.github.io/bujji-bedtime-podcast</link></image>
+    <item>
+      <title>The Star That Couldn&#x27;t Stop Yawning</title>
+      <description>High above a sleeping village, one little star just can&#x27;t stop yawning… and the kind moon knows exactly what to do. A soft, slow bedtime story to help your little one settle down and drift off to sleep. Ages 2-8, calming voice + gentle music, no scary bits.</description>
+      <itunes:summary>High above a sleeping village, one little star just can&#x27;t stop yawning… and the kind moon knows exactly what to do. A soft, slow bedtime story to help your little one settle down and drift off to sleep. Ages 2-8, calming voice + gentle music, no scary bits.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/bujji-bedtime-podcast/episodes/001-the-star-that-couldnt-stop-yawning.mp3" length="3600309" type="audio/mpeg"/>
+      <guid isPermaLink="false">bujji-001</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:05:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+{
+  "title": "Bujji Bedtime Stories",
+  "description": "Soft, soothing bedtime stories to help little ones drift off to sleep. Gentle original tales \u2014 a sleepy star, a moon that lost its blanket \u2014 told in a warm, calming voice with soft music. No loud sounds, no scary bits. Ages 2-8. New story every week.",
+  "author": "Bujji",
+  "owner_email": "earlybrightgloballlc@gmail.com",
+  "language": "en",
+  "category": "Kids & Family",
+  "explicit": "false",
+  "base_url": "https://vivekreddy99.github.io/bujji-bedtime-podcast",
+  "link": "https://vivekreddy99.github.io/bujji-bedtime-podcast",
+  "cover": "art/cover.jpg",
+  "episodes": [
+    {
+      "num": "001",
+      "title": "The Star That Couldn't Stop Yawning",
+      "description": "High above a sleeping village, one little star just can't stop yawning\u2026 and the kind moon knows exactly what to do. A soft, slow bedtime story to help your little one settle down and drift off to sleep. Ages 2-8, calming voice + gentle music, no scary bits.",
+      "file": "episodes/001-the-star-that-couldnt-stop-yawning.mp3",
+      "duration": 301.344,
+      "bytes": 3600309,
+      "pubDate": "2026-07-08"
+    }
+  ]
+}
