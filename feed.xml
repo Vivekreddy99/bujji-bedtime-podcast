@@ -28,5 +28,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>1</itunes:episode>
     </item>
+    <item>
+      <title>Bujji and the Moon&#x27;s Lost Blanket</title>
+      <description>Bujji and the Moon&#x27;s Lost Blanket. A soft, slow bedtime story to help your little one settle down and drift off to sleep. Ages 2-8, calming voice and gentle music, no scary bits. Follow Bujji Bedtime Stories for a new sleepy tale every week. Sweet dreams.</description>
+      <itunes:summary>Bujji and the Moon&#x27;s Lost Blanket. A soft, slow bedtime story to help your little one settle down and drift off to sleep. Ages 2-8, calming voice and gentle music, no scary bits. Follow Bujji Bedtime Stories for a new sleepy tale every week. Sweet dreams.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/bujji-bedtime-podcast/episodes/002-bujji-and-the-moon-s-lost-blanket.mp3" length="3558477" type="audio/mpeg"/>
+      <guid isPermaLink="false">bujji-002</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:04:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+    </item>
   </channel>
 </rss>
