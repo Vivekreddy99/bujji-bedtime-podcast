@@ -39,5 +39,16 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>2</itunes:episode>
     </item>
+    <item>
+      <title>The Sleepy Train That Delivered Dreams</title>
+      <description>The Sleepy Train That Delivered Dreams. A soft, slow bedtime story to help your little one settle down and drift off to sleep. Ages 2-8, calming voice and gentle music, no scary bits. Follow Bujji Bedtime Stories for a new sleepy tale every week. Sweet dreams.</description>
+      <itunes:summary>The Sleepy Train That Delivered Dreams. A soft, slow bedtime story to help your little one settle down and drift off to sleep. Ages 2-8, calming voice and gentle music, no scary bits. Follow Bujji Bedtime Stories for a new sleepy tale every week. Sweet dreams.</itunes:summary>
+      <enclosure url="https://vivekreddy99.github.io/bujji-bedtime-podcast/episodes/003-the-sleepy-train-that-delivered-dreams.mp3" length="4300485" type="audio/mpeg"/>
+      <guid isPermaLink="false">bujji-003</guid>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:05:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+    </item>
   </channel>
 </rss>
